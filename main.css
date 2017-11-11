@@ -1,0 +1,13 @@
+h1{
+	background-color: transparent;
+	color: purple;
+	border-bottom: 10px red;
+	font-family: helvetica;
+	text-align: center;
+
+}
+#shortbio {
+	display: block;
+	float: right;
+	background-color: lightgrey;
+}
