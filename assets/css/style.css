@@ -1,3 +1,84 @@
-h1{
-	background-color: 82506;
+* {
+    margin: 0;
+}
+
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.entire{
+	max-width: 960px;
+	margin: auto;
+}
+.title{
+	background-color: D93935;
+	max-width: 200px;
+	text-align: center;
+	font-size: 180%;
+	color: white;
+	padding: 22px 80px;
+
+}
+.header{
+	clear: both;
+	width: 100%;
+}
+.navbar{
+	margin-top: 0px;
+}
+.menu-item1{
+	display: inline-block;
+	float: right;
+}
+.menu-item2{
+	display: inline-block;
+	float: right;
+}
+.menu-item3{
+	display: inline-block;
+	float: right;
+}
+.middle{
+	clear: both;
+	background-image: url("../images/dust_scratches.png");
+	height: 500px;
+	width: 650px;
+	float: left;
+}
+.profilepic{
+	max-width: 30%;
+	max-height: 35%;
+}
+.connect{
+	background-image: url("../images/dust_scratches.png");
+	width: 270px;
+	height: 230px;
+	float: right;
+	text-align: center;
+}
+.logo1{
+	max-width: 25%;
+	max-height: 25%;
+	border-radius: 50%;
+	padding: 22px 80px;
+}
+.logo2{
+	max-width: 25%;
+	max-height: 25%;
+	border-radius: 50%;
+	padding: 22px 80px;
+}
+
+.logo3{
+	max-width: 25%;
+	max-height: 25%;
+	border-radius: 50%;
+	padding: 22px 80px;
+}
+.footer{
+	clear: both;
+	background-color: #D93935;
+	color: white;
+	padding: 22px 80px;
+	width: auto;
+	text-align: center;
 }
